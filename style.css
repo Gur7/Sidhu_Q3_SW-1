@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    color: #005f73;
+}
+
+#result {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #023047;
+}
+
+button {
+    margin: 5px;
+}
+
+input {
+    text-align: center;
+}
